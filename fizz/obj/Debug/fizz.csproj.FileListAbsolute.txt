@@ -1,0 +1,6 @@
+c:\users\ashok\documents\visual studio 2017\Projects\fizz\fizz\bin\Debug\fizz.exe.config
+c:\users\ashok\documents\visual studio 2017\Projects\fizz\fizz\bin\Debug\fizz.exe
+c:\users\ashok\documents\visual studio 2017\Projects\fizz\fizz\bin\Debug\fizz.pdb
+c:\users\ashok\documents\visual studio 2017\Projects\fizz\fizz\obj\Debug\fizz.csprojResolveAssemblyReference.cache
+c:\users\ashok\documents\visual studio 2017\Projects\fizz\fizz\obj\Debug\fizz.exe
+c:\users\ashok\documents\visual studio 2017\Projects\fizz\fizz\obj\Debug\fizz.pdb
